@@ -31,3 +31,16 @@ Check if a Number is Even or Odd
 
 **Task2 : assignment2.1.py**
 Sum of Integers from 1 to 50 Using a Loop
+
+
+**Assignment 3**
+Task 1 : Calculate Factorial Using a Function with recursion
+Task 2 : Using the Math Module for Calculations , find :
+Square root of the number
+o   Natural logarithm (log base e) of the number
+o   Sine of the number (in radians)
+
+
+
+
+
